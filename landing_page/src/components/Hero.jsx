@@ -13,10 +13,10 @@ const Hero = () => {
                 <p className='text-gray-500 text-2xl leading-[2.5rem]'>Bienvenid@ a mi landing page creada con React JS y Tailwind.</p>
                 <div className='flex flex-col md:flex-row items-center gap-4'>
                     <button className='w-full xl:w-auto bg-primary text-white py-2 px-8 rounded-3xl text-xl'>
-                        Contacto
+                        Login
                     </button>
-                    <button className='w-full xl:w-auto flex gap-4 py-2 px-8 gap-4 items-center text-gray-600 text-1xl italic'><BsFillPlayFill className='bg-button_video text-primary p-4 rounded-full box-content text-left'></BsFillPlayFill>
-                        Nuestra empresa
+                    <button className='w-full xl:w-auto flex py-2 px-8 gap-4 items-center text-gray-600 text-1xl italic'><BsFillPlayFill className='bg-button_video text-primary p-4 rounded-full box-content text-left'></BsFillPlayFill>
+                        Conoce Mundo Matemático
                     </button>
                 </div>
             </div>

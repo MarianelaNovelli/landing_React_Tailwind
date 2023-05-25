@@ -1,6 +1,5 @@
 import React from 'react';
 //Iconos
-import { FaFirstOrderAlt } from "react-icons/fa";
 import { AiFillInstagram, AiFillGithub } from "react-icons/ai";
 import { BsFacebook } from "react-icons/bs";
 import { RiTwitterFill } from "react-icons/ri";
